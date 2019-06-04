@@ -22,6 +22,13 @@ DTU, erstwhile under the University of Delhi) in India.
 
 [Google Scholar](https://scholar.google.com/citations?user=o3Q6pjoAAAAJ)
 
+#### Technical Skills and Areas of Interest
+
+Transparent Checkpointing (process-level snapshot); Formal verification of
+complex/distributed systems: TLA+/PlusCal; Linux internals; Glibc internals;
+Live updating; Migration and load balancing in datacenters; Fault tolerance,
+Utilization, and Throughput for datacenters
+
 #### Education:
 
 Ph.D., Computer Science (Fall 2013 - Spring 2019)  
