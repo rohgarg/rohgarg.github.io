@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+#### Rohan Garg (/rohɘn gɜrg/)
+
 My research interests are in systems and networking, high-performance
 computing, fault tolerance, and virtualization.
 

@@ -1,12 +1,13 @@
 title: "Rohan Garg: Home"
-email: rhn.grg@gmail.com
+email: "rhn.grg@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
   My notes on different technical and non-technical things.
 baseurl: ""
-url: ""
+url:  ""
+
 twitter_username: rhn_grg
 github_username:  rohgarg
+linkedin_username:  rohgarg
 
 markdown: kramdown
 theme: minima
-paginate: 5

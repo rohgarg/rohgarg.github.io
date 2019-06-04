@@ -2,11 +2,6 @@
 layout: page
 ---
 
-## Rohan Garg (/rohɘn gɜrg/)
-
-* * *
-* * *
-
 <br />
 
 My research interests are in systems and networking, high-performance
