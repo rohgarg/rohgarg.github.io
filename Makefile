@@ -1,4 +1,7 @@
-run:
+run: build
 	bundle exec jekyll serve
 
-.PHONY: run
+build:
+	bundle exec jekyll build
+
+.PHONY: run build

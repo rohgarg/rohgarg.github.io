@@ -18,8 +18,6 @@ project) even further, one would notice that I managed to complete
 my under-graduate degree from Delhi College of Engineering (now
 DTU, erstwhile under the University of Delhi) in India.
 
-[PGP](./rgarg.gpg.txt)
-
 [Google Scholar](https://scholar.google.com/citations?user=o3Q6pjoAAAAJ)
 
 #### Technical Skills and Areas of Interest

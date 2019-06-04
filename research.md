@@ -4,7 +4,8 @@ title: Research
 permalink: /research/
 ---
 
-In general, my research work has been in the domain of transparent
+In general, my research work has been at the intersection of computer systems
+and HPC. In particular, I have been working in the domain of transparent
 checkpointing. My recent work demonstrated:
 
 * novel techniques for transparent checkpoint-restart
