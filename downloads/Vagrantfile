@@ -1,0 +1,23 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+
+Vagrant.configure("2") do |config|
+
+  # NOTE: Edit this line
+  config.vm.box = "centos/7"
+  # NOTE: Enable this line when cloning boxes.
+  # config.vm.box_url =  "file:///scratch/rohgarg/lustre-build/client/client1.box"
+  config.vm.network "forwarded_port", guest: 443, host: 9557
+  # NOTE: Edit this IP address here.
+  config.vm.network "private_network", ip: "192.168.50.7"
+
+  config.vm.provider "virtualbox" do |vb|
+    vb.memory = "1024"
+    vb.cpus = 1
+    # NOTE: Enable the following lines for OST and MDT; adjust the storage size
+    # if !File.exist?("ost01.vdi")
+    #    vb.customize ["createhd", "--filename", "ost01.vdi", "--size", 256, "--variant", "Fixed"]
+    # end
+    # vb.customize ["storageattach", :id, "--storagectl", "IDE", "--port", 1, "--device", 1, "--type", "hdd", "--medium", "ost01.vdi"]
+  end
+end
