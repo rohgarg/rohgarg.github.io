@@ -38,7 +38,7 @@ and efficient computational method for protein classification.
   Beuning, P., and Ondrechen, M.,
   __Functional Classification of Protein Structures by Local Structure
   Matching in Graph Representation__, Protein Science, 2018.  
-  (Computational technique for large-scale classiciations of proteins using
+  (Computational technique for large-scale classification of proteins using
    Delaunay triangulation)
 
 * Garg, R., Arya, K., Cao., J., Cooperman, G., Evans, J., Garg, A.,
