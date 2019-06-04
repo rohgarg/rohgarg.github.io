@@ -1,5 +1,5 @@
 ---
-layout: home
-title: Posts
-permalink: /posts/
+layout: blog
+title: Blog
+permalink: /blog/
 ---
