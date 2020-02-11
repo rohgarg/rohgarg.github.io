@@ -22,8 +22,8 @@ and efficient computational method for protein classification.
 ### Selected Publications
 
 * Patel, T., Garg, R., Tiwari, D.,
-  __I/O Scheduling on Large-scale Parallel Storage for
-  Job Throughput and Fairness__, under review
+  __GIFT: A Coupon Based Throttle-and-Reward Mechanism for Fair and
+  Efficient I/O Bandwidth Management on Parallel Storage Systems__, FAST-2020
 
 * Garg, R., Price, G., and Cooperman, G.,
   __MANA for MPI: MPI-Agnostic Network-Agnostic Transparent Checkpointing__,
